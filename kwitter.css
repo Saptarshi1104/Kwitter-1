@@ -1,0 +1,16 @@
+body{
+background-color: deepskyblue;
+}
+img{
+height: 80px;
+width: 80px;
+}
+div{
+background-color: lightblue;
+width: 800px;
+border-radius: 30px;
+}
+h1{
+font-family: 'Courier New', Courier, monospace;
+font-size: 80px;
+}
